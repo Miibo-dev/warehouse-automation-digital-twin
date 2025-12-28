@@ -44,7 +44,7 @@ Comprehensive fleet sizing and traffic management simulation for AMR deployments
 
 <br>
 
-![Fleet Sizing & Optimization](./images/Simulation_Timeline.png)
+![Fleet Sizing & Optimization](./media/images/Simulation_Timeline.png)
 
 [view full project](./fleet-optimization)
 
