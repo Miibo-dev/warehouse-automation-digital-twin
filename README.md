@@ -49,7 +49,7 @@ Comprehensive fleet sizing and traffic management simulation for AMR deployments
 
 [view full project](./fleet-optimization)
 
-### [2. Continuous Improvement Through Digital Shadow](./media/continuous-improvement/README.md)
+### [2. Continuous Improvement Through Digital Shadow](./continuous-improvement/README.md)
 
 Real-time performance optimization using digital shadow technology.
 
